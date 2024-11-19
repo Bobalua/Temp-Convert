@@ -18,12 +18,8 @@ const ftemp = await rl.question(
 // C = 5/9(F-32)
 const ctemp = Math.round(((5/9)*(ftemp -32)));
 
-console.log(
-    `The temperature in Fahrenheit is ${ftemp}`
-);
+console.log(`The temperature in Fahrenheit is ${ftemp}`);
 
-console.log(
-    `The temperature in Celsius is ${ctemp}`
-);
+console.log(`The temperature in Celsius is ${ctemp}`);
 
 rl.close();

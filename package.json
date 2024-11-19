@@ -1,7 +1,7 @@
 {
   "name": "temp-convert",
   "version": "0.0.1",
-  "description": "Coding bootcamp project 1 - converting celsius to fahrenheit in a command line app.",
+  "description": "Coding bootcamp project 1 - converting fahrenheit to celsius in a command line app.",
   "main": "index.js",
   "type": "module",
   "scripts": {
